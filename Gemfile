@@ -29,6 +29,12 @@ gem 'jbuilder', '~> 2.5'
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
+gem "sprockets", ">= 3.7.2"
+gem "rubyzip", ">= 1.2.2"
+gem "ffi", ">= 1.9.24"
+gem "rails-html-sanitizer", ">= 1.0.4"
+gem "nokogiri", ">= 1.8.2"
+gem "loofah", ">= 2.2.3"
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
