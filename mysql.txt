@@ -1,0 +1,7 @@
+sudo service mysqld start
+sudo mysql_secure_installation
+
+mysql -uroot -p
+i****d
+
+sudo service mysqld stop
